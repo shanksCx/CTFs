@@ -1,8 +1,8 @@
 
 
-**Challenge Name:** Milkshake Shop 
-**Category:** Web Exploitation 
-**Difficulty:** Medium 
+**Challenge Name:** Milkshake Shop  
+**Category:** Web Exploitation  
+**Difficulty:** Medium  
 
 ## 1. Reconnaissance & Tech Stack Analysis
 
