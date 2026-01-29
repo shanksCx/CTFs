@@ -46,7 +46,7 @@ Searching this query led directly to the target account. Upon accessing the acco
 3. The location was identified as **Dehradun Ghantaghar**.
     
 4. Using Google Maps, nearby pet shops were examined.
-    ![](beagle3.png)
+    ![](images/beagle3.png)
 
 5. The relevant shop(as shown) was found, along with its contact number:  
     `+91 7668669112`
@@ -64,7 +64,9 @@ Searching this query led directly to the target account. Upon accessing the acco
 **Points:** 200  
 **Solves:** 80
 
-**Provided Image:** ![](images/c.jpeg)
+**Provided Image:** 
+
+![](images/c.jpeg)
 
 
 ### Method
@@ -91,7 +93,7 @@ A reverse image search was conducted on the provided image. This revealed that t
 ### Method
 
 A reverse image search was performed on the image, which directly led to the required information.
-![](friend2.png)
+![](images/friend2.png)
 
 **Flag:**
 
@@ -106,7 +108,7 @@ A reverse image search was performed on the image, which directly led to the req
 **Solves:** 1
 
 **Provided Image:** 
-![](image8.png)
+![](images/image8.png)
 
 
 > For this challenge  I was only able to solve half during the  competition and  later upsolved it all after competition ended with assistance from **0xfun**.
@@ -120,7 +122,7 @@ The username `IncredibleZuess` was searched on Google:
 `"IncredibleZuess"`
 
 This search led to an OpenStreetMap account, which revealed that the user was affiliated with **North-West University, South Africa**.
-![](overhang2.png)
+![](images/overhang2.png)
 
 
 ---
@@ -130,10 +132,10 @@ This search led to an OpenStreetMap account, which revealed that the user was af
 A targeted search was performed:
 
 `"North Western University south africa" AND "Wall Climbing"`
-![](overhang3.png)
+![](images/overhang3.png)
 
 This returned relevant results pointing to a climbing facility at the university. Further investigation revealed the wall number:
-![](overhang4.png)
+![](images/overhang4.png)
 
 
 ```yaml
@@ -141,7 +143,7 @@ G16
 ```
 
 Searching for `NWU G16` and locating the Faculty of Health Sciences on Google Maps helped identify the precise location.
-![](overhang5.png)
+![](images/overhang5.png)
 
 ---
 
@@ -169,7 +171,7 @@ Hint 2 suggested using the Wayback Machine.
 The climbing club’s website was checked on web archives. A discrepancy in the club ownership information was observed, revealing the **previous club owner’s name**.
 
 This solved the second component.
-![](overhangwebarchive.png)
+![](images/overhangwebarchive.png)
 
 ---
 
@@ -184,7 +186,7 @@ This account was reviewed to find posts featuring the wall. Based on Hint 3, the
 `Eben`
 
 This solved the first component.
-![](overhangIG.png)
+![](images/overhangIG.png)
 
 ---
 
